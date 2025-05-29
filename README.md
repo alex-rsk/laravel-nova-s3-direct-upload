@@ -38,7 +38,6 @@ The next example is suitable for Backblaze storage. Modify it for your preferred
 <sub> Note: I faced problems with setting up Openstack S3 storage, because of it's "peculiar" implementation. </sub>
 
 + Install package:
- ` composer require ` 
 
 + After installation:
 run
